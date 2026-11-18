@@ -1,7 +1,0 @@
-services:
-  - type: web
-    name: black-friday-vps-deals
-    runtime: static
-    buildCommand: ""
-    staticPublishPath: .
-    autoDeploy: true
